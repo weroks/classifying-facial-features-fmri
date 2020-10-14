@@ -1,0 +1,3 @@
+*.mat
+*.ckpt
+train_samples.npy
