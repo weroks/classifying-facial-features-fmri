@@ -11,6 +11,11 @@ Code related to my bachelor thesis on "Classifying Facial Features from fMRI Pat
 	* this code was used to create the numpy arrays "train_samples", "train_targets", "test_samples" and "test_targets", which are also available
 	* to execute this code a folder with the preprocessed data is needed, which was too big to upload it here, but can be made available upon request
 * code to classify the fMRI dataset (clf_fmri.py)
+* the following files were to big to upload them here and can therefore be accessed via the link below:
+	* veagan_celeba.ckpt
+	* derivatives
+	* train_samples.npy
+* [the link](https://mega.nz/file/ogpyQAYB#5mILfvDdaKYkyybrVu2pkKLWtI7j9iEXEsO7oaJvw60)
 
 ### Requirements:
 * Python >= 3.4
